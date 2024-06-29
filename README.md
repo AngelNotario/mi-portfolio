@@ -1,2 +1,2 @@
-# mi-portfolio
-este es mi portfolio hecho en ajva
+## Descripcion
+Este proyecto utiliza una base de datos para gestionar una floristería, desarrollada en SQL. La base de datos está diseñada para administrar de manera eficiente todos los aspectos relacionados con la operación de la floristería, incluyendo la gestión de clientes, pedidos, rutas de entrega, paquetes de flores, y vendedores. Este proyecto proporciona una estructura robusta y escalable para apoyar el crecimiento y las operaciones diarias de una floristería.
